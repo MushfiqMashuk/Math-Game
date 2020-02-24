@@ -116,7 +116,7 @@ function startCounter(){
             startButton.innerHTML = "Start Game";
 
         }
-    }, 1000)
+    }, 5000)
 }
 
 
