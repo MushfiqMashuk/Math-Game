@@ -11,7 +11,7 @@ const len = options.length;
 console.log(options);
 var isPlaying = false;
 var score = 0;
-var counter = 10;
+var counter = 60;
 var action, result, clicked = 0;
 
 startButton.onclick = ()=>{
